@@ -18,7 +18,7 @@ WHEN I answer each prompt
 THEN my input should be validated and at least one character type should be selected - yes
 
 WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
+THEN a password is generated that matches the selected criteria - yes
 
 WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
+THEN the password is either displayed in an alert or written to the page - yes

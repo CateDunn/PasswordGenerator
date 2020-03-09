@@ -59,7 +59,7 @@ do {
 
   };
 
-  alert(password);
+  document.getElementById("password").value = password;
 
   console.log(completeArray.length);
 
