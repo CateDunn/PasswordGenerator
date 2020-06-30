@@ -3,9 +3,7 @@
 ## Description
 This app generates a random password. Users can choose which criteria to include in their password including length, upper or lowercase letters and symbols. 
 
-![](password.png)
-
- https://catedunn.github.io/PasswordGenerator/
+[![password photo](password.png)](https://catedunn.github.io/PasswordGenerator/)
 
 ## User Story
 AS AN employee with access to sensitive data
