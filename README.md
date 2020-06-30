@@ -1,5 +1,11 @@
 # PasswordGenerator
 
+## Description
+This app generates a random password. Users can choose which criteria to include in their password including length, upper or lowercase letters and symbols. 
+
+![](password.png)
+
+## User Story
 GIVEN I need a new, secure password (criteria)
 
 1. WHEN I click the button to generate a password
